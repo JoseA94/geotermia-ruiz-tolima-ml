@@ -37,7 +37,7 @@ Las fotografías originales no se incluyen en el repositorio por su tamaño (uno
 ## Instalación
 
 ```bash
-git clone https://github.com/<usuario>/geotermia-ruiz-tolima-ml.git
+git clone https://github.com/JoseA94/geotermia-ruiz-tolima-ml.git
 cd geotermia-ruiz-tolima-ml
 pip install -r requirements.txt
 ```
