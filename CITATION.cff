@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usa este código, cite el capítulo 9 del libro y este repositorio."
+title: "geotermia-ruiz-tolima-ml: procesamiento de imágenes térmicas y RGB de dron para exploración geotérmica"
+authors:
+  - family-names: "Valencia Aricapa"
+    given-names: "José Antonio"
+  - family-names: "García Ramírez"
+    given-names: "Vanessa"
+  - family-names: "Álvarez Herrera"
+    given-names: "Camilo Andrés"
+  - family-names: "Ocampo Rincón"
+    given-names: "Santiago"
+  - family-names: "Villada Garzón"
+    given-names: "Cristian David"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-30"
+# doi: 10.5281/zenodo.XXXXXXX   (se completa al archivar en Zenodo)

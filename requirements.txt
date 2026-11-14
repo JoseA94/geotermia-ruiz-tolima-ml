@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pillow>=10.0
+opencv-python>=4.8
+rasterio>=1.3        # lectura y escritura de GeoTIFF (clasificación de coberturas)
+# ultralytics>=8.0   # solo para la metodología YOLO propuesta (opcional)
