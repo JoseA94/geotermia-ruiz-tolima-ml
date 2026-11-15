@@ -12,6 +12,8 @@ authors:
     given-names: "Santiago"
   - family-names: "Villada Garzón"
     given-names: "Cristian David"
+  - family-names: "Riaño-Rojas"
+    given-names: "Juan Carlos"
 license: MIT
 version: "1.0.0"
 date-released: "2026-11-14"
